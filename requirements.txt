@@ -1,6 +1,4 @@
-sphinx
-furo
-sphinxcontrib-napoleon
-sphinx-autoapi
-sphinx-design
-sphinxcontrib-bibtex
+recommonmark==0.7.1
+sphinx_markdown_tables==0.0.17
+sphinx_rtd_theme==3.0.2
+sphinx-autobuild==2024.10.3
