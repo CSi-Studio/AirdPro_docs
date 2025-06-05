@@ -30,7 +30,7 @@ Citation
 
 
 Contacts
-........
+
 
 Contact the **Lab** development team through Github issues or email:
 
